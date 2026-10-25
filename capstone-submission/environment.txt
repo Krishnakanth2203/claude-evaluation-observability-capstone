@@ -1,0 +1,4 @@
+Python 3.13.0
+pip 24.2 from /opt/venv/lib/python3.13/site-packages/pip (python 3.13)
+git version 2.39.5
+Linux a744f08ad349043072260c6a3f39b3539f4303fb-7685558bbc-lxfxx 6.6.97+ #1 SMP Fri Aug 22 11:53:37 UTC 2025 x86_64 GNU/Linux

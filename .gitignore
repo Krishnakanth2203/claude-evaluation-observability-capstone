@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .venv/
 __pycache__/
 *.egg-info/
@@ -6,6 +7,25 @@ __pycache__/
 .ruff_cache/
 *.pyc
 .DS_Store
+=======
+.DS_Store
+.vscode
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment
+>>>>>>> ffdf025 (Add capstone evaluation and observability evidence-2)
 .env
 .env.*
 !.env.example
