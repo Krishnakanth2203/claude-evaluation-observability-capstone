@@ -1,0 +1,12 @@
+Perturbation: exclusions changed to None
+Observed field: exclusions
+Category: missing_source
+Detected pattern: exclusions_absent
+Message: Field 'exclusions' returned null — the source document does not contain this information. Retry is futile; escalate to human review.
+.
+Baseline: endorsements remains None
+Observed field: endorsements
+Category: missing_source
+Detected pattern: endorsements_absent
+.
+2 passed in 0.04s
